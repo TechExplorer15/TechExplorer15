@@ -8,21 +8,12 @@ I'm a Computer Engineering student with a passion for web development. I love bu
 - 🌱 Currently learning backend development to become a full-stack developer.
 - 🤝 Open to collaborations on web development projects and eager to contribute to open source.
 
-## 📚 Projects
-(Here, you can list your top projects with brief descriptions and links to the repositories.)
-
 ## 🛠 Skills
 - Frontend Development: HTML, CSS, JavaScript
-- Frameworks/Libraries: React, Vue.js
+- Frameworks/Libraries: React
 - Tools: Git, GitHub, Visual Studio Code
 - Other: Responsive Design, SEO Basics
 
-## 📫 How to Reach Me
-- LinkedIn: [Your LinkedIn](#)
-- Email: your.email@example.com
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourGitHubUsername&show_icons=true&theme=radical)
 
-<!-- Add a visitor count badge -->
-![Visitor Count](https://profile-counter.glitch.me/{yourGitHubUsername}/count.svg)
 
